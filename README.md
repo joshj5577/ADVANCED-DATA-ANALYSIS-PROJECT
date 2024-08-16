@@ -1,6 +1,9 @@
 # ADVANCED-DATA-ANALYSIS-PROJECT
 Click on 'READ_ME_ANALYSIS_PROJECT' to see the code analysis on death row inmates in the US
 
+## The link below is a powerpoint presentation summary of the death row analysis
+https://1drv.ms/p/s!ApZIap4zI2O5hu5dXf8_twSPYZy2iQ
+
 ### A comprehensive analysis of death row statistics in the US – exploring whether it’s an unfair and prejudiced practice.
 
 ### Are there any particular characteristics which predispose a person to a higher likelihood of execution, resentencing or death by other means? 
